@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Curry-Box&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Burger-Truck&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Burger-Truck&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
