@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/Sri1712/Curry-Box">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Curry-Box&theme=radical" />
 </a>
-<br>
+
 <a href="https://github.com/Sri1712/Burger-Truck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Burger-Truck&theme=radical" />
 </a>
 
+<a href="https://github.com/Sri1712/Maths_Tutorials_Web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Maths_Tutorials_Web&theme=radical" />
+</a>
