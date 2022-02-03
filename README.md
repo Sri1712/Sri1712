@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Curry-Box&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Burger-Truck&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Sri1712/Burger-Truck">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Burger-Truck&theme=radical" />
+</a>
+<a href="https://github.com/Sri1712/Curry-Box">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Curry-Box&theme=radical" />
+</a>
