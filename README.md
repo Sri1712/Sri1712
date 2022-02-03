@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/srilathaa-vasu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="23px"/></a>
-<a href="https://www.instagram.com/srilathaa_vasu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="23px"/></a>
+<a href="https://www.linkedin.com/in/srilathaa-vasu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
+<a href="https://www.instagram.com/srilathaa_vasu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="25px"/></a>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical)
 
