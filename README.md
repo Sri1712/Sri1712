@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there :wave:, I am Srilathaa Vasu </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a passionate Machine Learning enthusiast!
 </h2> 
 
 - 🔭 I’m currently working as System Engineer
