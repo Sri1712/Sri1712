@@ -1,19 +1,14 @@
-### Hi there :wave:, I am Srilathaa Vasu
+<h3 align="center"> Hi there :wave:, I am Srilathaa Vasu </h3>
 
-<!--
-**Sri1712/Sri1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as System Engineer
+- 🌱 I’m currently learning Machine Learning.
+- :woman_technologist: All of my projects are available at https://github.com/Sri1712
+- 📫 How to reach me: srilathaavasu@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
 
 ### 🤝 Connect with me:
 
