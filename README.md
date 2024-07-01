@@ -7,7 +7,7 @@ I'm a passionate Machine Learning enthusiast!
 - 🔭 I’m currently working as System Engineer
 - 🌱 I’m currently learning Machine Learning.
 - :woman_technologist: All of my projects are available at https://github.com/Sri1712
-- 📫 How to reach me: srilathaavasu@gmail.com
+- 📫 How to reach me: sri1712lathaa@gmail.com
 
 
 ## 🤝 Connect with me:
