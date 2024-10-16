@@ -8,9 +8,9 @@ I'm a passionate Machine Learning enthusiast!
 
 My skill set includes :
 - Python for Data Analysis and Visualization, Exploratory Data Analysis (EDA)
-• Machine Learning: Linear Regression, Logistic Regression, K-Means and Hierarchical Clustering methods
-• Database: MySQL
-• Statistics: Inferential Statistics, Hypothesis Testing
+- Machine Learning: Linear Regression, Logistic Regression, K-Means and Hierarchical Clustering methods
+- Database: MySQL
+- Statistics: Inferential Statistics, Hypothesis Testing
 
 - :woman_technologist: All of my projects are available at https://github.com/Sri1712
 - 📫 How to reach me: sri1712lathaa@gmail.com
