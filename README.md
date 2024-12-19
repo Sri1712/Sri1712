@@ -39,16 +39,3 @@ I'm a passionate Machine Learning enthusiast!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri1712)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/Sri1712/Curry-Box">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Curry-Box&theme=radical" />
-</a>
-
-<a href="https://github.com/Sri1712/Burger-Truck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Burger-Truck&theme=radical" />
-</a>
-
-
-<a href="https://github.com/Sri1712/Maths_Tutorials_Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sri1712&repo=Maths_Tutorials_Web&theme=radical" />
-</a>
