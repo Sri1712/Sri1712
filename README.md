@@ -6,10 +6,14 @@ I'm a passionate Machine Learning enthusiast!
 
 - 🔭 Pursued a Master's degree in Data Science with a passion for solving real-world business challenges. I am a passionate learner and looking forward to explore the opportunities in the data science field.
 - My skill set includes :
-    * Python for Data Analysis and Visualization, Exploratory Data Analysis (EDA)
-    * Machine Learning: Linear Regression, Logistic Regression, K-Means and Hierarchical Clustering methods
     * Database: MySQL
-    * Statistics: Inferential Statistics, Hypothesis Testing
+    * Statistics: Data Analysis, Inferential Statistics, Hypothesis Testing
+    * Programming Languages: Python (Scikit-Learn, NumPy, SciPy, Pandas, Plotly, Matplotlib), SQL
+    * Data Visualization: Tableau, Power BI, EDA
+    * Cloud Tools: Microsoft Azure
+    * Office Tools: MS Office
+    * Machine Learning: K-Means Clustering, Linear Regression, Logistic Regression, Neural Networks
+    * Other Skills: Project Management, Data Mining, Leadership, Team Incubation, Process Improvement
 
 - :woman_technologist: All of my projects are available at https://github.com/Sri1712
 - 📫 How to reach me: sri1712lathaa@gmail.com
