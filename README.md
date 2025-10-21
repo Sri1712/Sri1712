@@ -57,13 +57,13 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 
 ## 🧠 Technical Skills
 
-**Programming & Querying:** Python, SQL, C, JavaScript, HTML, CSS  
-**Data Visualization:** Tableau, Power BI, Matplotlib, Plotly  
-**Machine Learning:** Scikit-Learn, Pandas, NumPy, SciPy  
-**Database Management:** MySQL, PostgreSQL  
-**Cloud Platforms:** Microsoft Azure  
-**ETL & Automation:** Data Extraction, Transformation & Cleaning (ETL)  
-**Other Tools:** MS Office, Figma, ServiceNow  
+- **Programming & Querying:** Python, SQL, C, JavaScript, HTML, CSS  
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Plotly  
+- **Machine Learning:** Scikit-Learn, Pandas, NumPy, SciPy  
+- **Database Management:** MySQL, PostgreSQL  
+- **Cloud Platforms:** Microsoft Azure  
+- **ETL & Automation:** Data Extraction, Transformation & Cleaning (ETL)  
+- **Other Tools:** MS Office, Figma, ServiceNow  
 
 ---
 
@@ -96,7 +96,7 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 ## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/srilathaa-vasu/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
-<a href="https://github.com/Sri1712"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30px"/></a>
+<a href="https://github.com/Sri1712"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/></a>
 <a href="mailto:sri1712lathaa@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30px"/></a>
 
 📫 **Email:** sri1712lathaa@gmail.com  
