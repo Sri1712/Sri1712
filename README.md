@@ -96,8 +96,7 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 ## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/srilathaa-vasu/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
-<a href="https://github.com/Sri1712"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/github.svg" alt="GitHub" width="30px"/></a>
-<a href="https://github.com/Sri1712"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px"/></a>
+<a href="https://github.com/Sri1712"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30px"/></a>
 <a href="mailto:sri1712lathaa@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30px"/></a>
 
 📫 **Email:** sri1712lathaa@gmail.com  
