@@ -43,3 +43,24 @@ I'm a passionate Machine Learning enthusiast!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri1712)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✨ GitHub Stats
+
+![Srilathaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri1712&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/srilathaa-vasu/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
+<a href="https://github.com/Sri1712"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/github.svg" alt="GitHub" width="30px"/></a>
+<a href="mailto:sri1712lathaa@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30px"/></a>
+
+📫 **Email:** sri1712lathaa@gmail.com  
+🌍 **Portfolio:** [github.com/Sri1712](https://github.com/Sri1712)
+
+---
+
+⭐ *“Data is the new oil, but insight is the real energy.”*  
+Let’s collaborate and turn data into decisions!
