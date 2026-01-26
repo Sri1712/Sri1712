@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Srilathaa Vasu</h1>
+<h1 align="center">👋 I'm Srilathaa Vasu</h1>
 <h3 align="center"> Data Analyst | MS in Data Science (LJMU) | SQL | Tableau | Power BI | Python | Azure | ServiceNow | Excel </h3>
 
 ---
@@ -88,7 +88,6 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 
 ## 📈 GitHub Stats
 
-![Srilathaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri1712&layout=compact&theme=radical)
 
 ---
