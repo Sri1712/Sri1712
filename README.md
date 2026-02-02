@@ -86,11 +86,6 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical&hide_border=true)
----
-
 ## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/srilathaa-vasu/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
