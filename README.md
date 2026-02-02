@@ -88,7 +88,7 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri1712&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri1712&show_icons=true&theme=radical&hide_border=true)
 ---
 
 ## 🤝 Connect With Me
