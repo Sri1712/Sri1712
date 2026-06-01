@@ -5,7 +5,7 @@
 
 🎯 **About Me**
 
-I’m a data-driven professional with **3+ years of experience** in analytics, automation, and visualization, helping businesses convert raw data into actionable insights.  
+I’m a data-driven professional with **4 years of experience** in analytics, automation, and visualization, helping businesses convert raw data into actionable insights.  
 With a **Master’s degree in Data Science** from *Liverpool John Moores University (UK)*, I combine statistical thinking with technical expertise to build scalable, data-informed solutions.
 
 At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pipelines, and streamlined analytics processes that supported enterprise reporting and client satisfaction across global projects.
