@@ -1,5 +1,7 @@
 <h1 align="center">👋 I'm Srilathaa Vasu</h1>
+
 > Data & Analytics Engineer — turning complex datasets into decisions that move businesses forward.
+
 ---
 
 🎯 **About Me**
