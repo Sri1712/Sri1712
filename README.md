@@ -1,14 +1,14 @@
 <h1 align="center">👋 I'm Srilathaa Vasu</h1>
-<h3 align="center"> Data Analyst | MS in Data Science (LJMU) | SQL | Tableau | Power BI | Python | Azure | ServiceNow | Excel </h3>
-
+> Data & Analytics Engineer — turning complex datasets into decisions that move businesses forward.
 ---
 
 🎯 **About Me**
 
-I’m a data-driven professional with **4 years of experience** in analytics, automation, and visualization, helping businesses convert raw data into actionable insights.  
+I'm a **data professional with 4 years of experience** based in **France** 🇫🇷, working at the intersection of data engineering, analytics, and AI quality. I combine strong technical foundations in ETL, SQL, and cloud platforms with a sharp eye for business impact and executive storytelling.
+
 With a **Master’s degree in Data Science** from *Liverpool John Moores University (UK)*, I combine statistical thinking with technical expertise to build scalable, data-informed solutions.
 
-At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pipelines, and streamlined analytics processes that supported enterprise reporting and client satisfaction across global projects.
+Currently evaluating and improving LLM outputs at **Turing** — and always looking for the story behind the data.
 
 💡 I’m passionate about:
 - Turning complex data into clear, visual narratives  
@@ -17,86 +17,97 @@ At **Tata Consultancy Services (TCS)**, I designed dashboards, automated data pi
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
+ 
+**AI Quality Analyst** — *Turing (Freelance), USA* *(Mar 2026 – Present)*
+Evaluating 75+ LLM responses for accuracy, relevance, clarity, logic, and safety. Running side-by-side comparisons, fact-checking for hallucinations and bias, optimising 70+ prompts, and applying standardised QA workflows to ensure consistent, high-quality evaluations.
 
-### 🔹 Tata Consultancy Services (TCS) | System Engineer - Data Analyst  
-📍 Bengaluru, India | 🗓 May 2021 – June 2024
-
-- Organized multi-dimensional datasets using **SQL, Python, and Tableau** for advanced analysis and reporting.  
-- Developed **Tableau dashboards** to visualize key KPIs for *EY Canvas Applications*, saving significant manual reporting time.  
-- Created **data-driven engagement insights** that boosted user subscriptions by **32%**.  
-- Automated manual workflows with **Python scripts**, reducing analysis time by **40%**.  
-- Recognized with the **TCS Gems Award** for outstanding quarterly performance.
-
-### 🔹 The Sparks Foundation | Data Science & Business Analytics Intern  
-📍 Remote | 🗓 Jan 2021 – Feb 2021  
-- Developed a **K-Means clustering model** on the Iris dataset to identify optimal clusters.  
-- Conducted statistical analysis to evaluate customer and partner data, improving performance tracking.  
-
-### 🔹 AggregoTech | Web Development Intern  
-📍 Aix-en-Provence, France | 🗓 2025  
-- Created dynamic web interfaces using **HTML, CSS, and Figma**.  
-- Improved code accessibility and performance using **Lighthouse** testing tools.
-
+**Data Analyst (Volunteer)** — *Community Dreams Foundation, USA* *(Dec 2025 – Present)*
+Built a dynamic pricing engine for vacation rentals by transforming Airbnb datasets and deploying a full ML regression pipeline. Presented insights through interactive Tableau and Power BI dashboards.
+ 
+**Data Analyst / System Engineer** — *Tata Consultancy Services* *(May 2021 – Jun 2024)*
+Built 100+ KPI dashboards (Power BI, Tableau), drove a 32% subscriber growth through data insights, automated workflows reducing reporting time by ~40%, and managed a team of 5 analysts. 🏆 TCS Gems Award recipient.
+ 
+**Data Science & Business Analytics Intern** — *The Sparks Foundation (Remote)* *(Jan–Feb 2021)*
+Developed a K-Means clustering model on the Iris dataset; conducted statistical analysis to improve customer performance tracking.
+ 
 ---
 
-## 🧩 Highlighted Projects
+## 🧩 Projects
 
-| Project | Description | Tools |
-|----------|--------------|-------|
-| 🛰 **Water Body Extraction from Satellite Images** | Developed a deep learning model using CNNs to detect water bodies in satellite imagery with high accuracy. | Python, Deep Learning (CNN), OpenCV |
-| 🏏 **Cricket Data Analysis (ESPN)** | Built an interactive Power BI dashboard analyzing player performance across batting, bowling, and fielding. | Power BI, DAX, Data Cleaning |
-| ⚙️ **Data Process Automation (TCS)** | Automated repetitive Excel/CSV cleaning and report generation tasks. | Python (Pandas, NumPy) |
-| 📊 **Customer Engagement Dashboard** | Designed Tableau dashboards to monitor user engagement and subscription growth. | SQL, Tableau, Power BI |
-| 🔬 **Exploratory Data Analysis Portfolio** | Applied data visualization and statistical techniques to uncover trends in real-world datasets. | Python, Plotly, Matplotlib |
-
-> Each project repository includes documentation (problem → solution → insights).  
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **AI-Powered Customer Support Intelligence** | End-to-end support ticket analytics with GenAI-driven insights, sentiment analysis, and volume forecasting | `Snowflake` `Snowpark ML` `Python` `SQL` |
+| 🎓 **Student Score Prediction (End-to-End ML)** | Production-ready web app with automated ML pipelines, CI/CD, and Dockerized deployment | `Python` `Scikit-learn` `Flask` `Docker` `AWS` |
+| 🛰 **Water Body Extraction via CNN** | Deep learning pipeline to detect water bodies in satellite imagery — MSc thesis | `Python` `TensorFlow` `OpenCV` `GIS` |
+| 🏏 **Cricket Data Analysis (ESPN)** | Interactive Power BI dashboard analysing player performance across batting, bowling & fielding | `Power BI` `DAX` |
+| 📱 **Web Social Media Analytics** | Sentiment analysis and text mining on mobile phone reviews to surface market trends | `Python` `Pandas` `Tableau` |
+| 🏙 **Airbnb NYC Revenue Analysis** | Storytelling case study identifying revenue drivers, host segments, and pricing opportunities | `Python` `SQL` `Tableau` `Seaborn` |
+| 📊 **Customer Engagement Dashboard (TCS)** | KPI dashboards and ticket tracker system that cut manual reporting time by ~40% | `SQL` `Tableau` `Power BI` |
+| 📄 **PDF Processing Tools Evaluation** | Comparative evaluation of 9 PDF extraction tools across 11 quality dimensions on a 226-page corpus — authored for Alpha10x to guide enterprise AI pipeline tool selection | `LlamaParse` `Docling` `PyMuPDF` `Azure Document Intelligence` `RAG` |
+ 
+> Each repository includes documentation: problem → solution → insights.
 > Explore more on [github.com/Sri1712](https://github.com/Sri1712)
 
 ---
 
-## 🧠 Technical Skills
-
-- **Programming & Querying:** Python, SQL, C, JavaScript, HTML, CSS  
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Plotly  
-- **Machine Learning:** Scikit-Learn, Pandas, NumPy, SciPy  
-- **Database Management:** MySQL, PostgreSQL  
-- **Cloud Platforms:** Microsoft Azure  
-- **ETL & Automation:** Data Extraction, Transformation & Cleaning (ETL)  
-- **Other Tools:** MS Office, Figma, ServiceNow  
-
+## 🛠 Tech Stack
+ 
+**Languages & Querying**
+`Python (Pandas, NumPy)` `SQL` `PostgreSQL` `MySQL` `JavaScript` `HTML/CSS`
+ 
+**BI & Visualisation**
+`Power BI` `Tableau` `Matplotlib` `Plotly` `Seaborn`
+ 
+**ML & AI**
+`Scikit-Learn` `TensorFlow` `Snowflake Cortex` `Snowpark ML` `NLP` `GenAI/LLM`
+ 
+**Engineering & Cloud**
+`ETL Pipelines` `dbt` `CI/CD` `Docker` `Azure` `Snowflake` `GCP` `AWS`
+ 
+**AI & Quality**
+`LLM Evaluation` `Prompt Engineering` `Data Quality & Validation`
+ 
+**Tools & Delivery**
+`ServiceNow` `Jira` `Figma` `Git/GitHub` `Flask`
+ 
 ---
 
 ## 🏅 Certifications & Achievements
 
-- Microsoft Certified: **Azure Fundamentals**  
-- **Python Basics** (Coursera)  
-- **Exploratory Data Analysis for Machine Learning**  
-- **Data Visualization Using Python**  
-- **Business English Certification**  
+- Microsoft Certified: **Azure Fundamentals**
+- **Exploratory Data Analysis for Machine Learning**
+- **Data Visualization Using Python**
+- **Python Basics** — Coursera
+- **Business English Certification** 
 - 🏆 *TCS Gems Award* – Best Performer of the Quarter  
 
 ---
 
+## 🎓 Education
+ 
+- **MSc Data Science** — Liverpool John Moores University *(2022–2024)*
+- **BE Electronics & Communication** — St. Joseph's College of Engineering *(2017–2021)*
+- **French as a Foreign Language** — AECD, Aix-en-Provence *(2025–2026)*
+  
+---
+
 ## 🌍 Languages
 
-- English – Bilingual  
-- French – Intermediate 
-- Tamil – Native  
+`English — Bilingual` `French — Intermediate` `Tamil — Native`
 
 ---
 
-## 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/srilathaa-vasu/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
-<a href="https://github.com/Sri1712"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30px"/></a>
-<a href="mailto:sri1712lathaa@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30px"/></a>
-
-📫 **Email:** sri1712lathaa@gmail.com  
-📍 **Location:** Aix-en-Provence, France  
-🌍 **Portfolio:** [github.com/Sri1712](https://github.com/Sri1712)
+## 📫 Get in Touch
+ 
+- 🌐 [Portfolio](https://srilathaa-vasu-liai9i7.gamma.site/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/srilathaa-vasu/)
+- 🐙 [GitHub](https://github.com/Sri1712)
+- ✉️ [sri1712lathaa@gmail.com](mailto:sri1712lathaa@gmail.com)
 
 ---
+
+*Open to opportunities in Data Engineering, Analytics & AI*
 
 ⭐ *“Data is the new oil — but insight is the real energy.”*  
 Let’s collaborate to turn data into decisions.
